@@ -11,7 +11,7 @@
 
 </div>
 
-![VaidyaCare Dashboard](https://source.unsplash.com/random/1200x400/?medical,dashboard)
+# VaidyaCare Dashboard
 
 ## 🌟 Project Overview 
 
